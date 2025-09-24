@@ -20,7 +20,7 @@ An AI-powered interview practice web application that helps job seekers and prof
 - **Curated Question Library**: 100+ professional interview questions across multiple categories
 - **Question Categories**: 
   - Behavioral questions (STAR method)
-  - Technical questions (role-specific) 
+  - Technical questions (role-specific)
   - Situational questions (problem-solving)
   - Company-specific questions
 - **Difficulty Levels**: Beginner, Intermediate, and Advanced questions
